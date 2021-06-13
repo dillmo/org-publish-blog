@@ -1,0 +1,4 @@
+#+TITLE: Inoffensive and Warm
+
+- [[file:a-darker-shade-of-magic.org][A Darker Shade of Magic]]
+  #+html: <p class="entry-description">Thoughts on V.E. Schwab's novel of alternate Londons.</p>

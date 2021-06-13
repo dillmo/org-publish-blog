@@ -1,0 +1,7 @@
+#+title: A Darker Shade of Magic
+#+date: <2021-06-13 Sun>
+#+author: Dillon Morse
+#+email: dillon@inoffensiveandwarm.com
+#+description: Thoughts on V.E. Schwab's novel of alternate Londons.
+
+Lorem ipsum sit dolor amet…
